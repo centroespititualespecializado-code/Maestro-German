@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://maestra-aura-react-an0p3rawm.vercel.app/sitemap.xml
+
+# If you add a production custom domain, update the Sitemap URL above to the canonical domain.

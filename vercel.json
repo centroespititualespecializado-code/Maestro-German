@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "^/$",
+      "dest": "/api/geo-redirect"
+    },
+    {
+      "src": "^/ec(.*)$",
+      "dest": "/index.html"
+    }
+  ]
+}
