@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Maestro German</title>
 
+    <!-- Fuentes -->
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
-    <!-- Google Ads tag (CORRECTA) -->
+    <!-- Google Ads TAG (CORRECTA) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17876001032"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -18,29 +19,53 @@
 
     <!-- SEO -->
     <link rel="canonical" href="https://maestra-aura-react-an0p3rawm.vercel.app/" />
-    <link rel="alternate" hreflang="x-default" href="https://maestra-aura-react-an0p3rawm.vercel.app/" />
-    <link rel="alternate" hreflang="es" href="https://maestra-aura-react-an0p3rawm.vercel.app/" />
-    <link rel="alternate" hreflang="es-EC" href="https://maestra-aura-react-an0p3rawm.vercel.app/ec" />
+    <meta name="description" content="Maestro German - Amarres de amor y rituales espirituales. Atención para Ecuador y Latinoamérica. Contáctanos." />
     <meta name="geo.country" content="EC" />
-    <meta name="description" content="Maestro German - Amarres de amor y rituales. Servicios disponibles para Ecuador y Latinoamérica. Contáctanos para recuperar a tu ser amado." />
 
     <!-- Schema -->
     <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "LocalBusiness",
-        "name": "Maestro German",
-        "url": "https://maestra-aura-react-an0p3rawm.vercel.app/",
-        "telephone": "+593 811 184 0245",
-        "address": {
-          "addressCountry": "EC"
-        }
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Maestro German",
+      "url": "https://maestra-aura-react-an0p3rawm.vercel.app/",
+      "telephone": "+5938111840245",
+      "address": {
+        "addressCountry": "EC"
       }
+    }
     </script>
   </head>
 
   <body>
+
     <div id="root"></div>
+
+    <!-- BOTÓN WHATSAPP CON CONVERSIÓN -->
+    <a
+      href="https://wa.me/5938111840245"
+      target="_blank"
+      onclick="gtag('event','conversion',{
+        'send_to':'AW-17876001032/CONVERSION_ID'
+      });"
+      style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background: #25D366;
+        color: #fff;
+        padding: 14px 18px;
+        border-radius: 50px;
+        font-family: Inter, sans-serif;
+        font-weight: 600;
+        text-decoration: none;
+        z-index: 9999;
+      "
+    >
+      WhatsApp
+    </a>
+
+    <!-- React -->
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
