@@ -1,7 +1,7 @@
 export default function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/528111840245"
+      href="https://wa.me/525531983776"
       className="fixed bottom-6 right-6 w-14 h-14 bg-whatsapp rounded-full flex items-center justify-center shadow-lg z-50"
       aria-label="WhatsApp"
     >

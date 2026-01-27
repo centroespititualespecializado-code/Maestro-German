@@ -39,13 +39,13 @@ export default function Rituals() {
                 y despertar sentimientos profundos hacia ti.
               </p>
               <a
-                href="https://wa.me/528111840245"
+                href="https://wa.me/525531983776"
                 className="bg-gold text-black px-5 py-2 rounded-full font-semibold shadow hover:scale-105 transition"
               >
                 Quiero un amarre de amor
               </a>
               <p className="mt-4 text-gold font-bold">
-                (+52) 811 184 0245
+                +525531983776
               </p>
             </article>
 
@@ -62,13 +62,13 @@ export default function Rituals() {
                 cuando el amor parece enfriarse.
               </p>
               <a
-                href="https://wa.me/528111840245"
+                href="https://wa.me/525531983776"
                 className="bg-gold text-black px-5 py-2 rounded-full font-semibold shadow hover:scale-105 transition"
               >
                 Quiero un ritual
               </a>
               <p className="mt-4 text-gold font-bold">
-                (+52) 811 184 0245
+                +525531983776
               </p>
             </article>
 
@@ -85,13 +85,13 @@ export default function Rituals() {
                 que amas y restaurar la armonía en la relación.
               </p>
               <a
-                href="https://wa.me/528111840245"
+                href="https://wa.me/525531983776"
                 className="bg-gold text-black px-5 py-2 rounded-full font-semibold shadow hover:scale-105 transition"
               >
                 Recuperar a mi pareja
               </a>
               <p className="mt-4 text-gold font-bold">
-                (+52) 811 184 0245
+                +525531983776
               </p>
             </article>
 

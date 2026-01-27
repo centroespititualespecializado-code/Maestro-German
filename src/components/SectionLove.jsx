@@ -44,7 +44,7 @@ export default function SectionLove() {
           {/* CTA */}
           <div className="flex flex-col sm:flex-row sm:items-center gap-6">
             <a
-              href="https://wa.me/528111840245"
+              href="https://wa.me/525531983776"
               className="bg-whatsapp text-black px-6 py-3 rounded-full inline-flex items-center justify-center gap-3 font-semibold shadow-md hover:scale-105 transition"
               aria-label="WhatsApp"
             >
@@ -68,7 +68,7 @@ export default function SectionLove() {
             </a>
 
             <p className="text-gold font-bold text-lg">
-              (+52) 811 184 0245
+              +525531983776
             </p>
           </div>
 

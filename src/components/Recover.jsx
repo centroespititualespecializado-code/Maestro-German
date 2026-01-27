@@ -34,7 +34,7 @@ export default function Recover() {
 
           <div className="flex items-center gap-6">
             <a
-              href="https://wa.me/528111840245"
+              href="https://wa.me/525531983776"
               className="bg-whatsapp text-black px-5 py-3 rounded-full inline-flex items-center gap-3 font-semibold shadow-md"
               aria-label="WhatsApp"
             >
@@ -47,7 +47,7 @@ export default function Recover() {
 
             <div>
               <p className="text-gold font-extrabold text-xl">
-                (+52) 811 184 0245
+                +525531983776
               </p>
             </div>
           </div>
