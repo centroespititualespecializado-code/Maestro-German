@@ -72,7 +72,7 @@ export default function MaestroReferences() {
 
             <div className="sm:ml-6">
               <a
-                href="https://wa.me/528111840245"
+                href="https://wa.me/525531983776"
                 className="inline-block bg-gold text-black font-semibold px-6 py-3 rounded-full shadow-md"
               >
                 Agenda tu Consulta Ahora

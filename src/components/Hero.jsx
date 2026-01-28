@@ -56,7 +56,7 @@ export default function Hero() {
         </div>
 
         <a
-          href="https://wa.me/528111840245"
+          href="https://wa.me/525531983776"
           className="inline-flex items-center gap-3 bg-gold text-black px-8 py-4 rounded-full font-semibold shadow-lg hover:scale-105 transition"
         >
           Consulta Gratis por WhatsApp

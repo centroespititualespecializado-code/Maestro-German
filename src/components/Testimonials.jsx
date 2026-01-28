@@ -57,7 +57,7 @@ export default function Testimonials() {
 
         {/* CTA */}
         <a
-          href="https://wa.me/528111840245"
+          href="https://wa.me/525531983776"
           className="inline-block bg-whatsapp text-black px-8 py-4 rounded-full font-semibold shadow-md hover:scale-105 transition"
         >
           Solicita tu consulta ahora
